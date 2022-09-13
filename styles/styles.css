@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.imagen {
+    width: 18%;
+    display: inline-block;
+    background-color: pink;
+    border-top-right-radius: 150px;
+    border-bottom-right-radius: 150px;
+}
+
+.imagen img {
+    width: 200px;
+    height: 50%;
+    margin-left: 150px;
+    border-radius: 150px;
+}
+
+.head {
+    width: 49%;
+    display: inline-block;
+}
+
+.header {
+    margin-top: 100px;
+}
+.head h1 {
+    font-size: 45px;
+    padding-left: 30%;
+}
+
+.head h2 {
+    font-size: 20px;
+    padding-left: 40%;
+}
+
+.sections1 {
+    margin: 10px;
+    padding: 20px;
+    width: 40%;
+    height: 200px;
+    position: relative;
+    top: -100px;
+    color: black;
+    font-size: 20px;
+    display: inline-block
+}
+.sections1 h3 {
+    color: pink;
+}
+.sections1 p {
+    color: gray;
+}
+
+.sections2 {
+    margin: 10px;
+    padding: 20px;
+    width: 40%;
+    height: 200px;
+    position: relative;
+    top: 50px;
+    color: black;
+    font-size: 20px;
+    text-align: justify;
+    display: inline-block
+}
+.sections2 h3 {
+    color: pink;
+}
+.sections2 span {
+    color: gray;
+}
+
+.sections2 ul {
+    color: gray;
+}
+
+.sections3 {
+    margin: 10px;
+    padding: 20px;
+    width: 40%;
+    height: 200px;
+    position: relative;
+    top: -120px;
+    color: black;
+    font-size: 20px;
+    display: inline-block
+}
+.sections3 h3 {
+    color: pink;
+}
+.sections3 ul {
+    color: gray;
+}
+
+.sections4 {
+    margin: 10px;
+    padding: 20px;
+    width: 40%;
+    height: 200px;
+    position: relative;
+    top: -45px;
+    color: black;
+    font-size: 20px;
+    display: inline-block
+}
+.sections4 h3 {
+    color: pink;
+}
+.sections4 p{
+    color: gray;
+}
+.sections4 ul{
+    color: gray;
+}
+
+.sections5 {
+    margin: 10px;
+    padding: 20px;
+    width: 40%;
+    height: 200px;
+    position: relative;
+    top: -90px;
+    color: black;
+    font-size: 20px;
+    display: inline-block
+}
+.sections5 h3 {
+    color: pink;
+}
+.sections5 span{
+    color: gray;
+}
+
+.sections6 {
+    margin: 10px;
+    padding: 20px;
+    width: 40%;
+    height: 200px;
+    position: relative;
+    top: -130px;
+    color: black;
+    font-size: 20px;
+    display: inline-block
+}
+.sections6 h3 {
+    color: pink;
+}
+.sections6 span{
+    color: gray;
+}
+
+
+
+.puesto {
+    font-weight: bold;
+}
+
+.empresa {
+    font-style: italic;
+}
+
+.año {
+    font-style: italic;
+}
+
+footer {
+    height: 50px;
+    background-color: pink;
+    width: 100%;
+    
+}
+
+footer img {
+    width: 48px;
+    padding-left: 50%;
+}
